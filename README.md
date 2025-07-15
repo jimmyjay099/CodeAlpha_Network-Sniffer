@@ -1,4 +1,5 @@
 Advanced Network Sniffer
+<img width="875" height="671" alt="image" src="https://github.com/user-attachments/assets/aa4cde95-a503-422d-89fb-0e95f3288b93" />
 
 Overview
 This project is a sophisticated, real-time network packet sniffer with a modern web-based user interface. It allows users to capture, analyze, and visualize network traffic flowing through their system. Built with a Python backend for packet capture (leveraging Scapy) and a dynamic React frontend for interactive data display, this tool provides insights into network communication, protocol structures, and data flow.
